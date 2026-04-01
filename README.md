@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 |----------|-------------|-----------|
 | [Pre-Class](./pre-class.md) | DML concepts, SELECT/WHERE/GROUP BY, DbGate setup | 30–45 min |
 | [Lesson Plan](./lesson.md) | Instructor guide for the 3-hour hands-on session | 3 hours |
-| [Post-Class](./assignment.md) | The Property Analyst — HDB resale data SQL challenges | 45–60 min |
+| [Assignment](./assignment.md) | The Property Analyst — HDB resale data SQL challenges | 45–60 min |
 | [Reference](./reference.md) | SQL DML cheat sheet, common functions reference | As needed |
 
 ---
