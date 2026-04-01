@@ -236,5 +236,5 @@ ORDER BY quarter;
 3. **`CASE` and `CAST` are your cleaning tools** — categorise messy text and convert mistyped columns directly in your query.
 
 ### Next Steps
-- **Post-Class:** Complete [The Property Analyst](./post-class.md) — 4 SQL questions + a capstone challenge finding undervalued towns (45–60 min).
+- **Post-Class:** Complete [The Property Analyst](./assignment.md) — 4 SQL questions + a capstone challenge finding undervalued towns (45–60 min).
 - **Next Lesson:** Lesson 1.5 goes advanced — JOINs, window functions, and CTEs for complex multi-table analytics.
